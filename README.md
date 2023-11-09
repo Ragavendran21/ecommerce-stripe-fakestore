@@ -14,6 +14,6 @@ To make client side working
 
 To make Server  Side Working Please enter following commands in the terminal wndow
  
- #STEP 2:cd server
+ #STEP 2:cd server<br/>
   #2.1:npm install
   #2.2:node server.js
