@@ -12,7 +12,7 @@ STEP 1:From the project root folder in the terminal window please enter<br/>
   1.1:npm install<br/>
   1.2:ng serve --configuration=development<br/>
 
-To make Server  Side Working Please enter following commands in the terminal window<br/>
+To make Server  Side Working Please enter following commands in the terminal window <br/>
  STEP 2:cd server<br/>
    2.1:npm install<br/>
    2.2:node server.js<br/>
