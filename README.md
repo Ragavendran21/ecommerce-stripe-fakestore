@@ -1,27 +1,19 @@
-# Ecommerce
+This project is done by using Angular 16 ,Tailwind CSS ,Angular material for client side and
+Node ,express for server which is used for communication with client and STRIPE payment is used in server side 
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.0.
+Prerequistes:NODE,NPM and Angular cli 
 
-## Development server
+Please Clone/Download the project using link 
+#https://github.com/Ragavendran21/ecommerce-stripe-fakestore
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+To make client side working
 
-## Code scaffolding
+STEP 1:From the project root folder in the terminal window please enter 
+  1.1:npm install 
+  1.2:ng serve --configuration=development
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+To make Server  Side Working Please enter following commands in the terminal wndow
+ 
+ STEP 2:cd server
+  2.1:npm install
+  2.2:node server.js
