@@ -8,12 +8,12 @@ Please Clone/Download the project using link
 
 To make client side working
 
-STEP 1:From the project root folder in the terminal window please enter 
-  1.1:npm install 
-  1.2:ng serve --configuration=development
+#STEP 1:From the project root folder in the terminal window please enter 
+  #1.1:npm install 
+  #1.2:ng serve --configuration=development
 
 To make Server  Side Working Please enter following commands in the terminal wndow
  
- STEP 2:cd server
-  2.1:npm install
-  2.2:node server.js
+ #STEP 2:cd server
+  #2.1:npm install
+  #2.2:node server.js
